@@ -4,3 +4,15 @@
 	text-align: center;
 	background-color: #AE00FF;
 }
+
+.recipe-title {
+	font-family: "Brush Script MT", cursive;
+	text-align: center;
+	background-color: #00AEFF;
+}
+
+.recipe-image {
+	height: 400px;
+	width: auto;
+	text-align: center;
+}
